@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CitiesMapMarkerInfo test 1`] = `
+<span>
+  City: 
+  Paris
+  <br />
+  Growth from 2000 to 2013: 
+  4.8%
+  <br />
+  Population: 
+  60405840
+  <br />
+  Rank: 
+  1
+  <br />
+  State: 
+  Île de France
+</span>
+`;

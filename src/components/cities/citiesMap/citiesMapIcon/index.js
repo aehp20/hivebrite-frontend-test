@@ -1,0 +1,1 @@
+export {CitiesMapIcon} from './CitiesMapIcon'
